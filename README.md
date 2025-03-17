@@ -23,7 +23,7 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 ## Project Process
 - **Data Preparation** – Collected, cleaned, and structured sales data for analysis.
 - **KPI Definition** – Created key metrics like Total Sales, Profit, and YoY Growth using DAX.
-- D**ashboard Development** – Built an interactive Power BI dashboard with insights on sales trends, regions, categories, and shipping modes.
+- **Dashboard Development** – Built an interactive Power BI dashboard with insights on sales trends, regions, categories, and shipping modes.
 - **Sales Forecasting** – Implemented a 15-day sales prediction using time-series analysis.
 - **Insights & Recommendations** – Identified top-performing products, regions, and customer segments to optimize sales and marketing strategies.
 
