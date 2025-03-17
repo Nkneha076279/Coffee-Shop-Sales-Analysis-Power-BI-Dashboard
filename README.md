@@ -4,18 +4,15 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 - <a href-"[SuperStore_Sales_Dataset.csv](https://github.com/Nkneha076279/Coffee-Shop-Sales-Analysis-Power-BI-Dashboard/blob/main/Coffee%20Shop%20Sales%20-%20Dataset.xlsx)">Dataset</a>
 
 ## Question (KPIs)  
-1.Total sales analysis 
-•	Calculate the total sales for each respective month 
-•	Determine the mom increase or decrease in sales 
-•	Calculate the diff in sales between the selected month and previous month. 
-2.Total order analysis 
-•	Calculate the total number of orders for each respective month.
-•	Determine the mom increase or decrease in orders.
-•	Calculate the diff in number of orders between the selected month and previous month. 
-3.Total Quantity sold analysis 
-•	Calculate the total quantity sold for each respective month.
-•	Determine the mom increase or decrease in total quantity sold.
-•	Calculate the diff in total quantity sold between the selected month and previous month.
+- Calculate the total sales for each respective month 
+- Determine the mom increase or decrease in sales 
+- Calculate the diff in sales between the selected month and previous month. 
+- Calculate the total number of orders for each respective month.
+- Determine the mom increase or decrease in orders.
+- Calculate the diff in number of orders between the selected month and previous month. 
+- Calculate the total quantity sold for each respective month.
+- Determine the mom increase or decrease in total quantity sold.
+- Calculate the diff in total quantity sold between the selected month and previous month.
 
 ## Dashboard
 - <a href-"[SuperStore Sales-Dashboard.pbit]"(https://github.com/Nkneha076279/Coffee-Shop-Sales-Analysis-Power-BI-Dashboard/blob/main/Coffee%20Shop%20Sales%20Analysis-Dashboard.pbix)"
