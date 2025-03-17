@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analysis-Power-BI-Dashboard
+# Coffee Shop Sales Analysis-Power BI Dashboard
 This Power BI dashboard provides a comprehensive sales analysis for a coffee shop, helping business owners and analysts track key performance indicators (KPIs) over time. The dashboard enables data-driven decision-making by visualizing total sales, total orders, and total quantity sold, along with month-over-month (MoM) comparisons.
 ## Dataset Used.
 - <a href-"[SuperStore_Sales_Dataset.csv](https://github.com/Nkneha076279/Coffee-Shop-Sales-Analysis-Power-BI-Dashboard/blob/main/Coffee%20Shop%20Sales%20-%20Dataset.xlsx)">Dataset</a>
