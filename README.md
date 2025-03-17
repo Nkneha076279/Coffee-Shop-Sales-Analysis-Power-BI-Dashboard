@@ -59,7 +59,7 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 ## Final Takeaways & Recommendations:
 - The coffee category dominates sales, but diversifying the product lineup (e.g., bakery and premium tea) could boost revenue.
 - Hell’s Kitchen and Astoria stores are performing well, but Lower Manhattan could benefit from targeted marketing efforts.
-  - Expanding peak hours offerings and running evening promotions could optimize revenue.
+- Expanding peak hours offerings and running evening promotions could optimize revenue.
 - Weekend sales strategies (e.g., discounts or loyalty programs) could increase traffic on Saturdays and Sundays.
 
 # Final Conclusion 
