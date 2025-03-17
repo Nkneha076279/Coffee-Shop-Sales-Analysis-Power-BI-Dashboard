@@ -19,7 +19,7 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 
 ## Project Process
 - **Data Preparation** – Collected, cleaned, and structured sales data for analysis.
-- **Date_table Created** – Date, Date_Hierarchy, Day_Name, Day_num, Month, Month_Year, Month_num, TT for Hour, Week_Number, Weekday_num, Weekday/Weekend.
+- **Date_table Created** – with columns (Date, Date_Hierarchy, Day_Name, Day_num, Month, Month_Year, Month_num, TT for Hour, Week_Number, Weekday_num, Weekday/Weekend).
 - **Data Modelling & Relationship** – Created  a relationship between Transaction & Date_table.
 - **KPI Definition** – Created key metrics like Total Sales, Profit, and MoM Growth using DAX.
 - **Dashboard Development** – Built an interactive Power BI dashboard with insights on sales trends over the period.
