@@ -4,8 +4,8 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 - <a href-"[SuperStore_Sales_Dataset.csv](https://github.com/Nkneha076279/Coffee-Shop-Sales-Analysis-Power-BI-Dashboard/blob/main/Coffee%20Shop%20Sales%20-%20Dataset.xlsx)">Dataset</a>
 
 ## Question (KPIs)  
-- Calculate the total sales for each respective month 
-- Determine the mom increase or decrease in sales 
+- Calculate the total sales for each respective month.
+- Determine the mom increase or decrease in sales. 
 - Calculate the diff in sales between the selected month and previous month. 
 - Calculate the total number of orders for each respective month.
 - Determine the mom increase or decrease in orders.
@@ -27,13 +27,17 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 - **Insights & Recommendations** – This process ensures a data-driven approach to analyzing sales trends, product performance, and peak hours for better business decisions.
 
 ## SuperStore Sales-Dashboard
-![Coffee Shop Sales Analysis-Dashboard](https://github.com/user-attachments/assets/76403d01-5cdb-435c-bee1-b594603991d8)
+![Screenshot 2025-03-17 165939](https://github.com/user-attachments/assets/3b53ba5f-3a9e-41ba-8782-8f283a0c04cc)
 
 ## Tooltip
 -**For Representing Sales by Date**
-![Screenshot 2025-03-17 160917](https://github.com/user-attachments/assets/9424b6a5-59f7-4239-836c-9c6fc486699d) 
+![Screenshot 2025-03-17 160854](https://github.com/user-attachments/assets/945c5b8f-7df6-4e5f-96af-7864ff64ef42) ![Screenshot 2025-03-17 160917](https://github.com/user-attachments/assets/427a5597-b305-49d5-bf78-eff4fe000393)
+
+
 -**For Representing Sales by Days & Hour**
-![Screenshot 2025-03-17 161147](https://github.com/user-attachments/assets/b24efed7-0c6f-45dd-857d-b1cdb23f02c9)
+![Screenshot 2025-03-17 161131](https://github.com/user-attachments/assets/fee2b124-c38d-461d-b30f-37927ab6456a) ![Screenshot 2025-03-17 161147](https://github.com/user-attachments/assets/df1efb0a-09b0-49b1-b250-9318464b4d16)
+
+
 -**Relationship between Transaction & Date_Table**
 ![image](https://github.com/user-attachments/assets/3308eb76-887e-4458-80d0-423fc01a2f19)
 
@@ -43,20 +47,20 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 🔹 Sales by Store Location: Compares revenue from different store locations (e.g., Astoria, Hell’s Kitchen, Lower Manhattan), highlighting growth percentages.
 
 🔹 Sales Breakdown:
+- By Product Category: Coffee, Tea, Bakery, and more, showing revenue contributions.
+- By Best-Selling Products: Lists top-performing items like Barista Espresso, Brewed Chai Tea, and Hot Chocolate.
 
-By Product Category: Coffee, Tea, Bakery, and more, showing revenue contributions.
-By Best-Selling Products: Lists top-performing items like Barista Espresso, Brewed Chai Tea, and Hot Chocolate.
 🔹 Sales by Time:
+- Weekday vs. Weekend Sales: A donut chart visualizes revenue distribution.
+- Hourly Sales Heatmap: Highlights peak business hours, allowing better staffing and inventory planning.
 
-Weekday vs. Weekend Sales: A donut chart visualizes revenue distribution.
-Hourly Sales Heatmap: Highlights peak business hours, allowing better staffing and inventory planning.
 🔹 Filter Panel: Users can select a specific month or custom date range to dynamically update the dashboard.
 
 ## Final Takeaways & Recommendations:
-📍 The coffee category dominates sales, but diversifying the product lineup (e.g., bakery and premium tea) could boost revenue.
-📍 Hell’s Kitchen and Astoria stores are performing well, but Lower Manhattan could benefit from targeted marketing efforts.
-📍 Expanding peak hours offerings and running evening promotions could optimize revenue.
-📍 Weekend sales strategies (e.g., discounts or loyalty programs) could increase traffic on Saturdays and Sundays.
+- The coffee category dominates sales, but diversifying the product lineup (e.g., bakery and premium tea) could boost revenue.
+- Hell’s Kitchen and Astoria stores are performing well, but Lower Manhattan could benefit from targeted marketing efforts.
+  - Expanding peak hours offerings and running evening promotions could optimize revenue.
+- Weekend sales strategies (e.g., discounts or loyalty programs) could increase traffic on Saturdays and Sundays.
 
 # Final Conclusion 
 - Implement strategies based on these insights to maximize revenue and improve overall business performance!
