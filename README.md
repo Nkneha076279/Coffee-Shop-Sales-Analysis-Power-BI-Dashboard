@@ -31,11 +31,15 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 
 ## Tooltip
 -**For Representing Sales by Date**
-![Screenshot 2025-03-17 160854](https://github.com/user-attachments/assets/945c5b8f-7df6-4e5f-96af-7864ff64ef42) ![Screenshot 2025-03-17 160917](https://github.com/user-attachments/assets/427a5597-b305-49d5-bf78-eff4fe000393)
+
+![Screenshot 2025-03-17 160854](https://github.com/user-attachments/assets/945c5b8f-7df6-4e5f-96af-7864ff64ef42)
+![Screenshot 2025-03-17 160917](https://github.com/user-attachments/assets/427a5597-b305-49d5-bf78-eff4fe000393)
 
 
 -**For Representing Sales by Days & Hour**
-![Screenshot 2025-03-17 161131](https://github.com/user-attachments/assets/fee2b124-c38d-461d-b30f-37927ab6456a) ![Screenshot 2025-03-17 161147](https://github.com/user-attachments/assets/df1efb0a-09b0-49b1-b250-9318464b4d16)
+
+![Screenshot 2025-03-17 161131](https://github.com/user-attachments/assets/fee2b124-c38d-461d-b30f-37927ab6456a) 
+![Screenshot 2025-03-17 161147](https://github.com/user-attachments/assets/df1efb0a-09b0-49b1-b250-9318464b4d16)
 
 
 -**Relationship between Transaction & Date_Table**
