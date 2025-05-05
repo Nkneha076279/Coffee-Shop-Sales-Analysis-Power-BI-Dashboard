@@ -42,7 +42,7 @@ This Power BI dashboard provides a comprehensive sales analysis for a coffee sho
 ![Screenshot 2025-03-17 161147](https://github.com/user-attachments/assets/df1efb0a-09b0-49b1-b250-9318464b4d16)
 
 
--**Relationship between Transaction & Date_Table**
+**Relationship between Transaction & Date_Table**
 ![image](https://github.com/user-attachments/assets/3308eb76-887e-4458-80d0-423fc01a2f19)
 
 ## Final Takeaways & Recommendations:
